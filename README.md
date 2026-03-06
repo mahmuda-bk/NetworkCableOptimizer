@@ -174,18 +174,6 @@ Total cost: 60.00
 
 ---
 
-## Learning Outcomes
-
-Through this project I gained experience in:
-
-- Implementing **graph algorithms**
-- Understanding **Minimum Spanning Trees**
-- Applying **DSA concepts to real-world problems**
-- Designing **interactive Java Swing applications**
-- Managing modular Java project structures
-
----
-
 ## Acknowledgements
 
 Some parts of the user interface and utility code were developed with assistance from AI-based tools to improve UI design and structure.  
