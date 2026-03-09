@@ -174,13 +174,6 @@ Total cost: 60.00
 
 ---
 
-## Acknowledgements
-
-Some parts of the user interface and utility code were developed with assistance from AI-based tools to improve UI design and structure.  
-All algorithm implementations, system integration, and overall project design were completed as part of the coursework.
-
----
-
 ## License
 
 This project is intended for **educational purposes** and may be freely used for learning and academic reference.
